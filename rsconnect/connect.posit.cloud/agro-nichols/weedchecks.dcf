@@ -1,0 +1,12 @@
+name: weedchecks
+title: WeedChecks
+username: agro-nichols
+account: agro-nichols
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1438b-3bbc-13f6-af5a-02a03c56888f
+bundleId:
+url: https://connect.posit.cloud/agro-nichols/content/01a1438b-3bbc-13f6-af5a-02a03c56888f
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
